@@ -1,29 +1,29 @@
 # Project Name: ECET370_Project
 
-TODO: Simple Social Network in Java
+  Simple Social Network in Java
 
 ## Installation
 
-N/A
+  N/A
 
 ## Usage
 
-ECET_370 Course Project
+  ECET_370 Course Project
 
 ## Contributing
 
-1. Fork it!
+  1. Fork it!
 
 ## History
 
-v0.1 Initial
+  v0.1 Initial
 
 ## Credits
 
 ### Group Members
-Will Holstein\n
-Mike Hudson\n
-Charles Givens
+  1. Will Holstein
+  2. Mike Hudson
+  3. Charles Givens
 
 ## License
 
