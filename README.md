@@ -21,8 +21,8 @@ v0.1 Initial
 ## Credits
 
 ### Group Members
-Will Holstein
-Mike Hudson
+Will Holstein\n
+Mike Hudson\n
 Charles Givens
 
 ## License
